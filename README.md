@@ -1,1 +1,1 @@
-# calories-to-price
+# calories-to-cost
