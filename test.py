@@ -1,5 +1,8 @@
 import requests
+import price_web_scraper
 from bs4 import BeautifulSoup
+
+# Learning how to web scrape with Python
 
 # Source: https://www.learndatasci.com/tutorials/ultimate-guide-web-scraping-w-python-requests-and-beautifulsoup/
 
@@ -75,3 +78,5 @@ for row in rows:
     data.append(d)
 
 print(data[4])
+
+print(price_web_scraper.get_price_dict())
