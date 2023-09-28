@@ -1,3 +1,3 @@
-# calories-to-cost
+# Calories to Cost
 
-Shows the most efficient calorie-per-dollar foods in McDonalds Canada.
+Calculates the most efficient calorie-per-dollar foods in McDonalds Canada.
